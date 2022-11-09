@@ -2,6 +2,8 @@
 
 I'm a Graphic Designer, Frontend-developer and WordPress enthusiast.
 
+My website - http://uzabila.github.io or <http://uzabila.github.io>
+
 [My website](https://uzabila.github.io/)
 
 <!--
