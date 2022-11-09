@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Sergei aka Uzabila
+
+I'm a Graphic Designer, Frontend-developer and WordPress enthusiast.
 
 <!--
 **uzabila/uzabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
